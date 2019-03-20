@@ -1,3 +1,3 @@
 # Artificial-Intelligence
-AI - projets
+AI - projects
 The repository contains projects and assignments implemented in course Artificial Intelligence
